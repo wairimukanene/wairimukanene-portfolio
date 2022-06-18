@@ -108,6 +108,7 @@ h4{
 	width: 100%;
 	padding: 100px 0px;
 	background-color: #191919;
+	align-content: center;
 }
 .about img{
 	height: auto;
